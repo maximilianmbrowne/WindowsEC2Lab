@@ -1,3 +1,7 @@
+
+# Watch the video of me building the Virtual Machine HERE:
+https://www.loom.com/share/64b6b936cade48b0847952e1fa09351e
+
 # EC2 Instance Lab
 
 ## Overview
@@ -24,3 +28,4 @@ This lab covers the process of creating and connecting to a Windows Virtual Mach
 
 ## Conclusion
 Successfully launched, configured, and connected to a Windows EC2 instance in AWS.
+
